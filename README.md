@@ -1,1 +1,1 @@
-# E-COMMERCE-DASHBOARD-ANALYIS-OF-UK-RETAIL-
+Online Retail dataset from UCI Machine learning repository - https://archive.ics.uci.edu/dataset/352/online+retail
